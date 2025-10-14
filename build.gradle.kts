@@ -23,5 +23,6 @@ kotlin {
 }
 
 application {
-    mainClass.set("com.learning.MainKt")
+    mainClass.set("com.learning.Day01VariablesKt")
 }
+
