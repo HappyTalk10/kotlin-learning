@@ -23,6 +23,6 @@ kotlin {
 }
 
 application {
-    mainClass.set("com.learning.Day01VariablesKt")
+    mainClass.set("com.learning.BaseConversionKt")
 }
 
